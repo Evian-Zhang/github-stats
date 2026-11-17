@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 52.605%;
+  width: 52.601%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 34.283%;
+  width: 34.280%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 6.352%;
@@ -146,13 +146,13 @@ div.ellipsis {
   width: 1.277%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 1.098%;
+  width: 1.102%;
 " class="progress-item"></span><span style="
   background-color: #a270ba; 
   width: 1.094%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
-  width: 0.565%;
+  width: 0.564%;
 " class="progress-item"></span><span style="
   background-color: #ecdebe; 
   width: 0.411%;
@@ -161,7 +161,7 @@ div.ellipsis {
   width: 0.302%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
-  width: 0.268%;
+  width: 0.269%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
   width: 0.248%;
@@ -196,11 +196,11 @@ div.ellipsis {
   background-color: #4B6C4B; 
   width: 0.049%;
 " class="progress-item"></span><span style="
+  background-color: #3178c6; 
+  width: 0.027%;
+" class="progress-item"></span><span style="
   background-color: #dbb284; 
   width: 0.026%;
-" class="progress-item"></span><span style="
-  background-color: #3178c6; 
-  width: 0.025%;
 " class="progress-item"></span><span style="
   background-color: #8ea64c; 
   width: 0.024%;
@@ -712,22 +712,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #dbb284;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Pawn</span>
-  <span class="percent">0.03%</span>
-</li>
-<li style="animation-delay: 3450ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #3178c6;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -738,6 +722,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
+  <span class="percent">0.03%</span>
+</li>
+<li style="animation-delay: 3450ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #dbb284;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Pawn</span>
   <span class="percent">0.03%</span>
 </li>
 <li style="animation-delay: 3600ms;">
